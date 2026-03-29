@@ -5,8 +5,9 @@
 - [nsxiv](https://github.com/nsxiv/nsxiv)
 - [neovim](https://neovim.io/)
 ---
-### also the wallpaper that i use qwq
-![my fav wallpaper](739272.png)
+### it looks like this
+![rice1](rice1.png)
+![rice2](rice2.png)
 ---
 
 # I DON'T RECOMMEND USING THIS CONFIG, IT WAS MADE BY ME FOR ME AND IT MAY HAVE SOME WEIRD QUIRKS
