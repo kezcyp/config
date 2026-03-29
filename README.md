@@ -1,4 +1,4 @@
-# my configs and patched stuff for:
+# My configs for
 - [dwm](https://dwm.suckless.org/)
 - [st](https://st.suckless.org/)
 - [dmenu](https://tools.suckless.org/dmenu/)
